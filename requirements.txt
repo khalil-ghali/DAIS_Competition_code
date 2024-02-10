@@ -1,0 +1,12 @@
+langchain==0.0.281 
+chromadb==0.3.29 
+transformers
+sentence-transformers 
+InstructorEmbedding 
+streamlit 
+pyPDF 
+youtube-transcript-api
+deep_translator 
+langdetect
+watchdog
+--find-links https://download.pytorch.org/whl/torch_stable.html torch==1.2.0+cpu
