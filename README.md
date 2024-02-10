@@ -36,6 +36,8 @@ Before you begin, ensure you have the following installed:
   2. activate a free GPU runtime for faster processing(works just fine with normal CPU runtime also)
   3. initiate the tunnel.
   4. follow the instructions written in each cell of the notebook
+     
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tzeLDPYVYKPyQRmcpXqPAWK2CMH4L1aW?usp=sharing]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
  
             
